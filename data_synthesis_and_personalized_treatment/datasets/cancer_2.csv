@@ -1,0 +1,251 @@
+,Patient_ID,Age,Gender,Tumor_Size(cm),Tumor_Type,Biopsy_Result,Treatment,Response_to_Treatment,Survival_Status
+0,c044501a-43ca-4a0c-8b8b-991439ba1b6a,52,Female,5.08,Benign,Positive,Surgery,No Response,Survived
+1,b8900c4c-1232-4084-9432-5d02eba74d20,32,Female,0.8,Benign,Negative,Surgery,Complete Response,Survived
+2,3004e2bc-8037-49cb-a542-d5612b73beab,70,Female,9.56,Benign,Positive,Radiation Therapy,Complete Response,Deceased
+3,1df86af7-6745-4dea-b127-cbc9915079fc,21,Female,3.07,Malignant,Negative,Surgery,Partial Response,Survived
+4,128e00c3-72e3-4031-a7f4-1165d7199cce,62,Male,7.17,Malignant,Positive,Radiation Therapy,Complete Response,Deceased
+5,2b3cc8d5-f2f7-4ce2-be51-f5f489b53244,60,Female,8.31,Benign,Negative,Radiation Therapy,Complete Response,Deceased
+6,2f8c5926-bedb-418e-84ed-8b05412e495f,34,Female,0.66,Benign,Negative,Chemotherapy,Complete Response,Survived
+7,315f3ae6-b44c-42a8-9ce3-deb728a662f9,69,Female,2.2,Malignant,Negative,Surgery,Partial Response,Survived
+8,494e30bf-b2e5-46b1-8323-ec4b1ef6ff1b,49,Male,6.42,Benign,Negative,Chemotherapy,No Response,Deceased
+9,b55064cc-82e5-4d22-801a-32c2a9106a44,80,Female,2.04,Malignant,Negative,Chemotherapy,Partial Response,Deceased
+10,f9763e16-ab67-4206-9468-65384c167f39,59,Female,5.75,Malignant,Negative,Radiation Therapy,No Response,Survived
+11,4e9ae3b3-f55c-409e-8d81-79051572acf1,55,Female,0.81,Benign,Positive,Surgery,No Response,Deceased
+12,20f857d7-7485-4056-bd9f-5dff393880ff,44,Male,10.0,Malignant,Positive,Chemotherapy,Complete Response,Deceased
+13,48a387ea-725a-4071-8e9a-61f5f09cbaa6,54,Female,0.63,Malignant,Positive,Surgery,Partial Response,Survived
+14,5a2de590-520f-40a5-ade6-6383bea4f85f,29,Male,3.46,Malignant,Negative,Radiation Therapy,Partial Response,Deceased
+15,af968cb7-b465-40a4-b64f-cc85cc1b9e68,65,Male,8.7,Benign,Negative,Radiation Therapy,No Response,Survived
+16,a5283707-91c4-416f-ab72-a39a903b877f,56,Female,4.37,Malignant,Positive,Surgery,No Response,Survived
+17,5a78979c-891e-4380-800d-99ec7a6a749e,30,Female,3.43,Malignant,Negative,Chemotherapy,Complete Response,Survived
+18,49ff41f7-3423-49d4-83d1-4779342dc2db,74,Male,1.01,Benign,Positive,Chemotherapy,No Response,Deceased
+19,c7293d23-0f41-4d60-b3e2-d378758e28c9,23,Female,8.13,Malignant,Positive,Chemotherapy,Partial Response,Deceased
+20,e45e4501-bd59-4dd2-b3b3-5f2558e688f5,28,Male,2.64,Malignant,Negative,Chemotherapy,No Response,Deceased
+21,08803d1f-7482-4049-ad62-bbf063093db8,61,Female,2.31,Benign,Negative,Radiation Therapy,No Response,Survived
+22,0235bd10-6049-4cb9-b652-2c5076e8b0a8,58,Female,1.66,Malignant,Negative,Surgery,Partial Response,Deceased
+23,22148fb7-b8ed-467e-8837-9b6b2575fbff,51,Female,6.0,Malignant,Negative,Surgery,No Response,Deceased
+24,294bcc03-dcce-4066-b8c3-4c812764b7a5,72,Female,0.56,Benign,Positive,Chemotherapy,No Response,Deceased
+25,c19f503b-a62f-493b-9dea-29354dd28e43,67,Female,1.17,Malignant,Negative,Surgery,Partial Response,Survived
+26,da533c4f-5de7-4822-9e52-37cc798b57cf,31,Male,2.28,Malignant,Negative,Radiation Therapy,Complete Response,Survived
+27,73fae43f-0591-461b-9570-d9763ea6c324,45,Female,2.99,Benign,Positive,Surgery,Complete Response,Survived
+28,d61ab1f5-0d87-40cd-94b7-325c4464d35c,45,Male,7.38,Benign,Positive,Radiation Therapy,No Response,Deceased
+29,74703adb-0a72-407a-8b26-43660d90cd76,73,Male,3.8,Benign,Positive,Chemotherapy,No Response,Deceased
+30,56f62aa0-00a8-4eeb-beaa-1dfd428ac023,47,Female,9.51,Benign,Positive,Surgery,No Response,Survived
+31,66a9e91a-50d0-4da3-a1b8-301b199b54d9,70,Male,6.29,Benign,Negative,Chemotherapy,Complete Response,Deceased
+32,be67e051-1123-4aeb-a5e4-c00102c3d686,21,Male,5.6,Malignant,Negative,Surgery,Complete Response,Survived
+33,fc46469a-60be-4028-89b8-3296cb8f9549,49,Male,6.0,Malignant,Negative,Surgery,Complete Response,Deceased
+34,53714910-4f93-446a-a42d-1fc24bb1b948,48,Female,9.94,Malignant,Negative,Radiation Therapy,Partial Response,Deceased
+35,61ea06a0-962f-46c6-8faa-a3f58f24a8b5,73,Female,8.58,Benign,Positive,Chemotherapy,No Response,Survived
+36,1b7a47b5-242e-4be4-a070-06de356d932a,38,Female,9.34,Benign,Negative,Surgery,Partial Response,Deceased
+37,e0d050f6-eb2d-4640-9794-45f2b3305932,43,Female,4.26,Benign,Positive,Surgery,Complete Response,Deceased
+38,f027bada-a2d8-44bb-8edf-f04b5605e182,20,Female,2.78,Benign,Positive,Surgery,No Response,Deceased
+39,a7e9e1e4-7d92-4027-add7-4a258e1c7729,52,Male,5.23,Benign,Negative,Surgery,No Response,Survived
+40,1df09a61-f88e-4da0-b70f-11cc16bf3635,54,Female,6.61,Malignant,Positive,Surgery,Partial Response,Survived
+41,4318dd9f-e9b8-41df-9256-2f0217f66136,64,Female,5.79,Benign,Positive,Radiation Therapy,Complete Response,Deceased
+42,a4db7dd0-0081-4c8a-b7d6-adc5a0b5d87a,41,Female,9.17,Malignant,Negative,Surgery,No Response,Deceased
+43,61fe58a4-a8a9-48d5-8f72-7a6ca91a6bb8,78,Female,3.97,Malignant,Positive,Radiation Therapy,No Response,Deceased
+44,ab0d6be3-8560-45f5-95ad-5f7030c35b9e,47,Male,2.99,Benign,Positive,Radiation Therapy,No Response,Survived
+45,e9075845-854c-458c-b500-567c084ff86a,66,Male,8.81,Malignant,Positive,Chemotherapy,Partial Response,Deceased
+46,7e8d7180-204b-4487-8a95-3f3a5a54b704,52,Male,5.59,Malignant,Positive,Radiation Therapy,No Response,Deceased
+47,4ad9846b-82cd-429a-b965-489b60f2d500,55,Male,3.98,Malignant,Positive,Chemotherapy,Complete Response,Survived
+48,96cc95a8-903c-422f-8e87-7abd42fa32d0,56,Female,2.13,Malignant,Negative,Surgery,Partial Response,Survived
+49,ba32737e-61c1-42e1-ab4d-d916909fd78e,50,Male,2.55,Benign,Positive,Chemotherapy,No Response,Survived
+50,714a34cf-5c04-4890-8373-ac5d4f979883,38,Male,2.94,Benign,Positive,Chemotherapy,Complete Response,Survived
+51,f9f51d09-98fd-43dd-ac6b-3bcac7e7037d,54,Male,3.46,Malignant,Positive,Surgery,Complete Response,Survived
+52,116844bb-94c8-4d0d-9661-9008280a0a7d,52,Female,3.01,Malignant,Negative,Chemotherapy,No Response,Deceased
+53,a091b8ef-9d72-457a-b792-05f993044065,70,Female,7.92,Malignant,Positive,Surgery,No Response,Survived
+54,6eed1e5d-cefa-4d7d-bf73-dde8deddd896,30,Male,6.29,Malignant,Negative,Chemotherapy,No Response,Survived
+55,76729f78-0851-4914-bad2-1b8b204cc1ad,67,Female,5.29,Benign,Positive,Chemotherapy,Complete Response,Deceased
+56,3dd5fcb3-c98d-4ec4-b647-d111ac824c50,72,Female,2.55,Malignant,Positive,Surgery,Complete Response,Deceased
+57,2edd1970-c2b1-4b59-9937-2ed6fd0d49be,49,Female,1.44,Benign,Positive,Chemotherapy,Partial Response,Survived
+58,662c6c03-d748-4782-8a6f-22c7952b43a4,66,Male,4.42,Benign,Negative,Radiation Therapy,No Response,Survived
+59,9351180b-594e-42e6-9ae0-3ceeed051c94,64,Male,2.68,Benign,Negative,Chemotherapy,No Response,Survived
+60,647a35d4-0fdf-4999-803e-a4ae9685fc61,34,Female,5.45,Benign,Positive,Radiation Therapy,Complete Response,Deceased
+61,cf335862-3663-4b3b-a9e9-ff295933d699,33,Female,5.08,Malignant,Positive,Chemotherapy,Partial Response,Survived
+62,84dd8d8f-bb81-4d67-a809-71379efb27a9,57,Female,6.64,Benign,Negative,Radiation Therapy,Complete Response,Survived
+63,16a35296-9af9-49dd-9dbc-76f828da56e1,31,Male,7.51,Benign,Positive,Surgery,Partial Response,Survived
+64,f0a5dbd2-8261-4e29-a2b7-0794b5f4c2c4,23,Male,8.74,Malignant,Positive,Surgery,Partial Response,Deceased
+65,fcb441d0-91fd-48ef-979b-3e932e2420e3,35,Female,6.59,Benign,Negative,Radiation Therapy,Complete Response,Survived
+66,7df132e7-7d53-4fec-a8a4-ef202a40a2aa,72,Female,4.33,Malignant,Positive,Surgery,Complete Response,Deceased
+67,2fc6a225-dea9-4c58-8e55-4b0ae9b523bd,65,Female,6.36,Benign,Negative,Radiation Therapy,No Response,Survived
+68,2ee1c3f0-8cf9-4df9-9a85-b37cabb7baca,27,Male,4.23,Benign,Positive,Surgery,Partial Response,Deceased
+69,db0dc608-ebdc-4e9f-bd7a-8fa5494e90be,20,Female,1.55,Malignant,Negative,Radiation Therapy,Complete Response,Deceased
+70,b8f4a254-849a-42f1-aa86-203cb98cb7ef,46,Male,7.21,Malignant,Positive,Surgery,Partial Response,Deceased
+71,203b6e89-8a0c-418a-a11c-2ff32b15e4d6,68,Female,8.38,Benign,Negative,Radiation Therapy,No Response,Survived
+72,313fc2e8-d392-4bc4-995a-c276e4ba96f6,60,Male,7.62,Benign,Negative,Chemotherapy,Partial Response,Survived
+73,02c763ac-d8c9-4499-a471-9c3a9d5e330a,80,Male,3.99,Malignant,Positive,Chemotherapy,No Response,Survived
+74,1cff595e-7a5a-4873-9936-b85f51d9ab59,77,Male,2.08,Benign,Negative,Chemotherapy,No Response,Survived
+75,3e5ef1ab-61fc-4c24-a289-b60db03a20c5,56,Male,3.05,Malignant,Positive,Chemotherapy,No Response,Deceased
+76,b1a24f1c-7bb5-4d07-b415-5cf4a81d89b1,39,Female,3.2,Benign,Positive,Chemotherapy,Complete Response,Survived
+77,e64012b8-36ef-44ac-acfd-b3f3af5f2200,76,Male,1.13,Malignant,Negative,Radiation Therapy,Partial Response,Deceased
+78,4139222d-d37f-4b41-a703-e312f95aef0e,40,Female,2.24,Benign,Negative,Chemotherapy,Partial Response,Deceased
+79,19528b03-4919-4dde-90f6-57bf11b3a71f,62,Female,5.68,Malignant,Positive,Radiation Therapy,Complete Response,Deceased
+80,06b7df16-ffe3-45c6-b5be-d729365b1ff6,72,Female,6.87,Benign,Positive,Surgery,Complete Response,Deceased
+81,abcd7571-88dc-4134-afb0-09466bc486db,73,Male,3.07,Malignant,Positive,Chemotherapy,Partial Response,Deceased
+82,c91b6230-5b1d-438f-9bb5-358f239ab7e2,25,Male,8.47,Malignant,Negative,Chemotherapy,Complete Response,Deceased
+83,135a12f5-b1e0-4e7f-9085-84fec2dd8693,64,Male,2.79,Benign,Positive,Surgery,Complete Response,Survived
+84,f8977ab6-aeb6-497b-9eda-44e3e2cc2903,32,Female,6.18,Benign,Negative,Radiation Therapy,Partial Response,Deceased
+85,36fb81db-155e-41f0-a584-664f19db72f5,41,Male,6.76,Malignant,Negative,Surgery,No Response,Survived
+86,2f24443e-c236-4be7-9e1d-989b5a0fc873,34,Female,2.39,Benign,Positive,Surgery,No Response,Deceased
+87,c7c26b79-23d5-4a01-af0c-84c37bb1faf6,50,Male,3.82,Benign,Positive,Radiation Therapy,Complete Response,Survived
+88,c0f51084-06f3-4ed9-a6a7-8f5f41bdeefa,37,Female,6.01,Benign,Negative,Chemotherapy,Complete Response,Survived
+89,c17653cc-0e44-494f-aefc-df00aebc075e,29,Male,3.98,Malignant,Negative,Radiation Therapy,Complete Response,Survived
+90,020ca94b-e20d-4e14-b4ad-dd230e83f74d,67,Male,8.62,Malignant,Positive,Surgery,No Response,Deceased
+91,a4c5eb04-25d7-4315-88b8-29f1774532e7,79,Female,1.32,Malignant,Positive,Chemotherapy,Partial Response,Deceased
+92,2fc79579-5fa2-485d-a12f-ea8d7bdd6c95,47,Female,2.66,Benign,Positive,Surgery,No Response,Deceased
+93,0e9e018e-9ae9-4984-b970-9bf80a13eafc,38,Male,2.89,Malignant,Negative,Chemotherapy,Partial Response,Deceased
+94,3c787a22-f391-4f5b-a255-d4de33d28e49,42,Male,6.77,Malignant,Negative,Surgery,Partial Response,Survived
+95,9c73132a-79ce-4dae-b899-50a228685b52,20,Female,1.29,Benign,Negative,Chemotherapy,No Response,Deceased
+96,ba52bc75-632d-4b6d-9ac0-342a439a580a,41,Male,5.1,Benign,Negative,Surgery,Partial Response,Survived
+97,d7c673e0-2a67-410a-9c95-2a8b86028b9a,28,Male,3.25,Malignant,Positive,Radiation Therapy,Partial Response,Survived
+98,e015208a-ab17-49a9-84a7-17a9e8163311,53,Female,7.62,Malignant,Positive,Surgery,No Response,Deceased
+99,fff08d49-a45f-40ed-8352-75dbc5e77554,66,Female,2.56,Benign,Positive,Chemotherapy,Complete Response,Survived
+100,bad259f3-66b4-4612-86a7-8874a1a63340,45,Male,2.56,Malignant,Negative,Surgery,Complete Response,Deceased
+101,d05288b5-9f65-4b8d-8c80-7545e823ae38,27,Female,1.2,Malignant,Positive,Surgery,Complete Response,Deceased
+102,b3e3e50b-1328-499b-9fac-ac4008cb8365,52,Female,0.89,Benign,Positive,Surgery,Partial Response,Deceased
+103,557e43f9-8a19-4392-b358-1c4386f38e76,49,Female,6.42,Benign,Positive,Radiation Therapy,No Response,Survived
+104,ff97ccbb-01a4-42e0-8f25-039b9a5e8e48,75,Female,6.98,Malignant,Positive,Chemotherapy,Partial Response,Survived
+105,97674bd0-6b69-4d68-9ca7-2085f210a908,27,Male,7.67,Malignant,Negative,Surgery,Partial Response,Survived
+106,5fc9d142-efe8-4314-95ee-09d8374629fa,44,Male,6.09,Malignant,Negative,Chemotherapy,Complete Response,Deceased
+107,b7e5f4ed-00b7-4a55-ab72-b0c9ac2d33c3,45,Male,2.42,Benign,Negative,Radiation Therapy,Complete Response,Deceased
+108,4d390cb3-6431-4a3c-9b2b-b17f8f09bf89,21,Female,2.15,Malignant,Positive,Surgery,Partial Response,Deceased
+109,368b5b9f-f850-41a2-9225-f73e578993ec,76,Male,6.62,Benign,Negative,Surgery,Complete Response,Deceased
+110,7b5bca01-aecd-47c6-a693-8e9a8e41db1b,61,Male,6.81,Benign,Negative,Chemotherapy,No Response,Deceased
+111,08f1bebe-86e1-414b-8674-87ccc905335f,31,Female,4.87,Benign,Negative,Surgery,Partial Response,Survived
+112,6bb9a6f1-baf6-4add-af5a-273ce69995ba,51,Male,3.18,Malignant,Negative,Radiation Therapy,Complete Response,Deceased
+113,e6835d0c-640e-4789-84bd-8506441941b2,73,Female,3.59,Malignant,Negative,Radiation Therapy,Partial Response,Survived
+114,986f6bef-dda4-44f5-b65f-71786a61b092,25,Male,0.92,Benign,Negative,Surgery,Complete Response,Deceased
+115,b0319f3c-95a0-4206-ae40-5dc9fe83dba6,28,Female,9.0,Benign,Positive,Chemotherapy,Complete Response,Survived
+116,bba0552b-88c7-4507-9648-6e9627620eab,75,Male,8.53,Benign,Negative,Radiation Therapy,Partial Response,Survived
+117,a7be8052-8571-4612-9676-d4d7064d34e8,31,Male,4.15,Benign,Negative,Radiation Therapy,No Response,Survived
+118,4888cb05-0f1f-45b8-abbc-70abbfc43157,64,Male,3.93,Benign,Negative,Surgery,Complete Response,Survived
+119,545692cb-99f6-40ee-935f-31a14e6b8bfc,33,Female,8.66,Malignant,Negative,Chemotherapy,Complete Response,Survived
+120,58428264-5f4b-4fa2-8453-0dcb966edbb2,34,Female,9.6,Malignant,Negative,Surgery,Complete Response,Survived
+121,b235d961-09f2-4039-a498-fe5771cf35d4,39,Male,4.79,Benign,Positive,Chemotherapy,No Response,Survived
+122,6ae9ba36-bed3-4c35-bd0d-718ef309d756,58,Male,1.98,Benign,Negative,Chemotherapy,No Response,Deceased
+123,73d6e591-bd38-4a12-86cc-69cc8f32f857,46,Male,3.74,Malignant,Negative,Chemotherapy,No Response,Survived
+124,8eec9921-699f-4982-b675-0c95677887f9,43,Male,0.67,Benign,Negative,Chemotherapy,Partial Response,Survived
+125,db39d55e-6041-4c5f-909c-aa8b57a0938b,37,Female,5.86,Benign,Positive,Chemotherapy,No Response,Survived
+126,04a03b30-9b7b-4663-966e-8dfb3c2e02bc,48,Male,8.01,Benign,Positive,Chemotherapy,Partial Response,Deceased
+127,54a16040-c6b6-4927-95d5-92bd5ee3f5e7,51,Male,1.76,Malignant,Negative,Surgery,Complete Response,Deceased
+128,c1d1b840-d56b-4888-bcc4-244ec1ac5904,21,Female,8.76,Benign,Positive,Surgery,No Response,Survived
+129,01e4c593-0029-468f-b13f-6afb8893f153,20,Female,5.55,Benign,Positive,Radiation Therapy,Complete Response,Survived
+130,5ac4d198-6c42-44a9-8c07-fcfd143dd16f,38,Male,7.79,Malignant,Positive,Radiation Therapy,No Response,Survived
+131,ef1fa5c1-bc83-4cca-b1a4-c1c09eca71a1,22,Female,5.22,Malignant,Negative,Radiation Therapy,No Response,Deceased
+132,4bda8fff-df75-41fa-909e-4f71aed4985f,30,Female,1.1,Benign,Positive,Radiation Therapy,Partial Response,Survived
+133,72efe99a-41cd-4e19-a94b-780aff8bd1a3,31,Male,1.25,Benign,Positive,Surgery,Partial Response,Survived
+134,d981ad4f-368c-43b3-9b28-9c61d59c66c6,66,Male,2.74,Malignant,Positive,Surgery,Complete Response,Deceased
+135,78a0f60e-9ef2-4f7f-9efb-99306cdc677b,34,Female,2.53,Malignant,Positive,Radiation Therapy,No Response,Deceased
+136,ee487fa1-cfb7-4b5d-8f5f-da7ac729282b,47,Male,2.46,Benign,Positive,Chemotherapy,No Response,Survived
+137,86a108d0-aa26-4140-93c7-886c2d6863ed,42,Male,1.04,Benign,Positive,Surgery,Partial Response,Survived
+138,8f042f06-05e1-44a4-a640-5570138ebc39,23,Male,5.67,Malignant,Positive,Surgery,Complete Response,Deceased
+139,2c90f6f5-e679-4e80-af87-8ed6740d9371,47,Male,6.16,Benign,Negative,Chemotherapy,Partial Response,Survived
+140,e5ec406d-d429-4803-b647-b2f019bc0619,50,Female,5.64,Benign,Negative,Chemotherapy,No Response,Deceased
+141,eb06ad67-f61c-4f8c-8e78-4d1d32a24b3f,36,Female,0.75,Malignant,Negative,Surgery,Complete Response,Deceased
+142,975c3144-1036-412b-9ab0-4e0bd47bac8e,51,Male,7.86,Malignant,Positive,Radiation Therapy,No Response,Survived
+143,922dc084-9170-4dd4-8657-92fa22337fae,67,Male,9.39,Malignant,Negative,Chemotherapy,Complete Response,Survived
+144,52c746fb-65f0-42c7-9530-9cf2ae1324e5,29,Male,2.45,Malignant,Negative,Surgery,Complete Response,Survived
+145,1e9b680c-136a-4ab8-9e00-391d2a99285d,74,Female,6.49,Benign,Negative,Surgery,Complete Response,Deceased
+146,a0293b86-7a6d-4cf5-8290-27952f9436b6,80,Female,1.72,Malignant,Negative,Chemotherapy,No Response,Deceased
+147,f06d8d1c-a56e-4a50-8517-cb6e9dc79c5a,80,Female,1.38,Malignant,Negative,Chemotherapy,Complete Response,Deceased
+148,28272749-b072-4ea8-a553-fc3556904ac5,49,Female,6.04,Malignant,Positive,Radiation Therapy,Complete Response,Survived
+149,bbe15dbf-581f-4e07-9b36-1451679c8c39,31,Female,9.25,Benign,Positive,Radiation Therapy,No Response,Deceased
+150,6d5e41e1-4c59-4be2-8115-972c5901e243,21,Female,5.78,Malignant,Positive,Radiation Therapy,Partial Response,Deceased
+151,7418737c-809e-4a4f-881d-145e820e8b9c,57,Male,6.67,Benign,Positive,Surgery,Complete Response,Survived
+152,996940b8-3d94-420b-a5f5-47175439a364,63,Female,6.08,Malignant,Positive,Chemotherapy,Partial Response,Deceased
+153,6e5c789f-614d-4415-b1d5-85ac7d803225,77,Male,5.9,Benign,Negative,Surgery,Complete Response,Survived
+154,b1ec41d2-486d-40c6-8550-c66eeb339f58,40,Female,6.06,Malignant,Negative,Surgery,No Response,Deceased
+155,39bb01c1-2c8c-4bff-b0a3-20c5ba6f6615,75,Male,4.01,Malignant,Positive,Surgery,Partial Response,Survived
+156,36cdfd3e-d392-4694-a7ea-a5b63740f8a4,24,Male,6.01,Benign,Positive,Surgery,Complete Response,Deceased
+157,ab675912-e59a-4715-bc3d-4ab4a8f24b2f,58,Male,8.64,Benign,Positive,Chemotherapy,Complete Response,Deceased
+158,4ad6007f-3bd8-4d00-b7bd-34d8a710d8b0,58,Male,9.43,Benign,Negative,Radiation Therapy,No Response,Deceased
+159,f9c2d077-032d-4fbc-a8ce-69bf7628c8a8,41,Male,6.58,Malignant,Positive,Chemotherapy,No Response,Deceased
+160,6403c4c2-d5b1-49fa-b1ca-03629303f950,25,Female,7.71,Benign,Negative,Chemotherapy,Partial Response,Survived
+161,1a8f2fec-7a7d-484c-b01a-d360913fc12d,69,Female,2.84,Benign,Negative,Radiation Therapy,Complete Response,Survived
+162,e1bb1c2d-8d98-454d-b49a-6988c9b6cd5e,56,Male,3.2,Malignant,Negative,Chemotherapy,No Response,Survived
+163,c10aa810-f45d-49f6-8890-49d7874cb877,42,Male,5.79,Malignant,Negative,Surgery,No Response,Deceased
+164,8b919eaf-d3f3-459e-9cff-e84377a68c34,70,Male,2.28,Benign,Positive,Chemotherapy,Partial Response,Deceased
+165,128a6cfb-9b20-4cb0-9615-54b8fd0065de,34,Female,6.94,Malignant,Negative,Radiation Therapy,Complete Response,Deceased
+166,ea73df81-d2e0-4260-a424-cf10e6de37d8,30,Female,0.62,Malignant,Positive,Chemotherapy,No Response,Deceased
+167,bc08b04d-382c-42df-b141-0e817d503c18,56,Male,4.37,Benign,Negative,Radiation Therapy,Complete Response,Deceased
+168,09dfed6b-a2b7-439b-80e4-4bb16488d776,58,Male,6.48,Malignant,Positive,Chemotherapy,Partial Response,Survived
+169,0e919022-cbaf-41dc-9a20-3d5ba84cde59,69,Female,0.89,Benign,Positive,Chemotherapy,Complete Response,Deceased
+170,5610e5f0-8b66-4e71-8ce0-96217d3f56d2,23,Male,4.31,Benign,Negative,Surgery,Partial Response,Survived
+171,eeb5a71a-6840-40cd-a699-51a4981212a9,46,Female,2.81,Benign,Negative,Radiation Therapy,No Response,Survived
+172,95c41600-eebe-46f9-9bb8-abc64e1a70fc,36,Male,9.76,Benign,Negative,Chemotherapy,Complete Response,Survived
+173,f45d9b84-da6b-4811-abb9-7cfbbd922c1e,79,Female,1.94,Benign,Positive,Surgery,Partial Response,Survived
+174,456ca8e1-37e9-4d83-ae5a-7eff1838e08b,53,Male,2.68,Benign,Negative,Chemotherapy,Partial Response,Deceased
+175,571c268e-89a9-4030-bb36-96a3fb50be19,24,Female,6.47,Benign,Positive,Radiation Therapy,No Response,Deceased
+176,84ae113f-aca6-477c-8163-d689073ec51d,24,Male,8.31,Malignant,Negative,Radiation Therapy,Complete Response,Deceased
+177,73d5275b-3655-4bbe-93a0-926c537a4855,41,Male,4.72,Benign,Negative,Chemotherapy,Complete Response,Survived
+178,b8f31479-f0bf-4704-8a09-7f1bb108a2d1,26,Female,5.78,Malignant,Negative,Chemotherapy,No Response,Survived
+179,4baf8b4e-1e87-4834-8c09-c8a8496204ef,65,Male,7.94,Benign,Negative,Chemotherapy,Complete Response,Deceased
+180,0cf96b0b-2fd7-45f9-b6da-7e00128e0c8d,37,Female,6.9,Malignant,Positive,Surgery,Partial Response,Deceased
+181,b54993ee-bebe-401b-9dab-a59e32c4f617,65,Male,6.08,Malignant,Negative,Radiation Therapy,No Response,Survived
+182,dc7988e6-bcf6-4d00-9dcb-cd1916a64a60,56,Female,6.19,Benign,Negative,Surgery,Complete Response,Survived
+183,f5f08f41-2cc7-4d09-8651-6a1fdcacc9de,35,Female,8.75,Malignant,Negative,Radiation Therapy,Partial Response,Deceased
+184,aa85f50e-4bc7-4c29-825b-8d83608d855a,78,Female,5.14,Malignant,Positive,Radiation Therapy,No Response,Survived
+185,ad4e9024-611f-4719-86bb-a48fb9ae6403,58,Female,2.63,Malignant,Negative,Chemotherapy,Partial Response,Survived
+186,1d0577be-ad97-4108-bff0-93109a28899c,53,Male,3.2,Malignant,Positive,Chemotherapy,Partial Response,Deceased
+187,63c17d31-1b0b-40fa-a54d-3fe133ccfa75,73,Female,3.45,Malignant,Positive,Chemotherapy,Complete Response,Survived
+188,8d54fea3-f739-4165-8d77-9a6fc668e48f,53,Female,1.84,Benign,Positive,Radiation Therapy,No Response,Deceased
+189,a5487bc1-ce03-428c-a3d9-73121de99519,42,Male,5.74,Benign,Positive,Chemotherapy,Partial Response,Survived
+190,45b68f3b-1fe3-4876-a542-7034a37dd1a3,56,Female,7.48,Malignant,Negative,Chemotherapy,Partial Response,Survived
+191,14cb5f4f-5d15-42ce-bf85-cc5ea39f32ca,79,Male,6.74,Malignant,Negative,Radiation Therapy,No Response,Survived
+192,8343ab07-1cd5-4766-841c-21733526616f,55,Female,3.83,Malignant,Positive,Surgery,No Response,Survived
+193,e3955fda-71dd-49ec-95f4-9601214f317c,65,Male,3.51,Benign,Positive,Surgery,No Response,Survived
+194,6c767559-e576-478c-8bfe-fb39ca2d32e8,20,Male,8.84,Benign,Negative,Chemotherapy,Complete Response,Survived
+195,ff3199ba-988f-4b6b-8ac2-000d43a075e9,20,Female,5.82,Benign,Negative,Radiation Therapy,No Response,Deceased
+196,7c28e890-a8c0-4966-adf6-6d62d3db2606,74,Female,5.35,Malignant,Negative,Surgery,Complete Response,Deceased
+197,4d024c75-bc46-44eb-b554-bc8dbf8bd888,38,Female,8.23,Malignant,Negative,Radiation Therapy,No Response,Deceased
+198,118415c7-6382-4cb5-a00e-44dd1ca0f8fa,47,Female,1.22,Benign,Negative,Surgery,Complete Response,Deceased
+199,cfb38699-c1c0-4507-9707-fc58d030e93a,79,Female,9.17,Benign,Negative,Radiation Therapy,Complete Response,Survived
+200,d10d2f17-32bb-4031-a27e-3f481bcf0c51,49,Female,0.86,Benign,Positive,Surgery,No Response,Survived
+201,5228f7b0-7bd5-4cbd-9f84-f6bca9303e25,20,Male,3.77,Malignant,Negative,Surgery,Partial Response,Survived
+202,bb5a381b-399f-4e1c-8ac0-7fd810b224f7,59,Female,4.95,Benign,Positive,Radiation Therapy,No Response,Deceased
+203,97e4432c-f0d7-44de-a33b-c3f40f4a9702,48,Male,6.46,Benign,Negative,Chemotherapy,No Response,Deceased
+204,f44fd3e6-657f-4495-bc68-d701e75cf73b,24,Female,3.77,Malignant,Negative,Surgery,No Response,Deceased
+205,542bc9ae-ded0-488d-9384-775d9973a6d6,22,Male,1.1,Malignant,Positive,Radiation Therapy,No Response,Deceased
+206,f5437111-cbeb-40b3-bc84-79e0fd05f3dd,80,Male,2.27,Malignant,Positive,Surgery,No Response,Survived
+207,23414b79-5e36-44c8-b54f-5fd6559c0e66,79,Male,3.9,Benign,Positive,Radiation Therapy,Partial Response,Deceased
+208,6c056370-9a03-4583-a812-74fa4931b2dd,24,Female,3.13,Malignant,Positive,Surgery,Complete Response,Survived
+209,c45b56ca-9669-4bdd-8143-e8e4bcab500e,25,Female,2.2,Benign,Positive,Surgery,Partial Response,Deceased
+210,b6cd5431-f053-446f-8dd2-5893344ead99,27,Male,3.61,Malignant,Negative,Surgery,Partial Response,Deceased
+211,d8b2111a-004c-45c8-af57-c4882be4ba9c,23,Female,9.58,Malignant,Negative,Surgery,No Response,Deceased
+212,49f34136-d418-42ca-b886-ec27039d2703,30,Female,8.54,Malignant,Negative,Radiation Therapy,Complete Response,Survived
+213,dd1109e9-925d-49f0-b552-e2d7ac08fa8a,41,Male,1.85,Malignant,Negative,Surgery,Partial Response,Survived
+214,e6b70e73-0ac6-4ef7-a48d-c731bd18029a,56,Female,8.32,Malignant,Positive,Surgery,Partial Response,Deceased
+215,97686c18-c719-48a3-bc7d-aeba818a39fe,71,Female,6.84,Malignant,Positive,Surgery,Partial Response,Survived
+216,b10704fb-7792-404f-8711-2a043d5126c8,25,Female,7.87,Malignant,Negative,Radiation Therapy,Partial Response,Deceased
+217,4e97530c-e979-4bcb-baf7-3cf3a552b02d,25,Female,6.97,Benign,Negative,Chemotherapy,No Response,Survived
+218,462cd513-6d60-4d02-83c4-762111192bfa,45,Female,1.2,Benign,Negative,Radiation Therapy,Complete Response,Deceased
+219,24a0ab10-d937-4411-8509-355151393deb,54,Male,5.34,Benign,Negative,Surgery,Complete Response,Deceased
+220,796917fb-5d04-402e-a653-0e6dd25d9cb8,63,Female,5.34,Malignant,Positive,Chemotherapy,Partial Response,Deceased
+221,30460e12-0c63-4824-bd94-d90650ad23ad,75,Female,7.46,Benign,Negative,Chemotherapy,Complete Response,Deceased
+222,ae3add09-8214-4ad1-a635-37a944f8878e,44,Female,6.58,Benign,Negative,Surgery,No Response,Survived
+223,13ed132d-e198-49d8-86ca-9e1356716a0a,64,Female,1.33,Benign,Positive,Chemotherapy,Partial Response,Deceased
+224,f6317ea7-6742-42bb-ad2b-e13dea06affe,41,Male,6.32,Benign,Positive,Surgery,Partial Response,Deceased
+225,4599c8ea-e009-4fbb-b7ee-51b0af0ad9be,32,Male,6.95,Malignant,Positive,Radiation Therapy,No Response,Deceased
+226,72db86e2-7746-456a-a51f-8e5bea5bf402,21,Male,9.33,Benign,Negative,Surgery,No Response,Survived
+227,9ed930f7-8cf4-41ca-94ef-b51e9dc419fb,72,Male,2.15,Benign,Positive,Surgery,Complete Response,Survived
+228,9e287b9e-c866-4574-80a4-a02d361bc2dd,61,Female,6.24,Malignant,Positive,Radiation Therapy,No Response,Deceased
+229,15926500-3a22-4937-b125-cdc38f76c8af,37,Male,3.02,Benign,Positive,Surgery,Complete Response,Survived
+230,a0580d7f-0a37-4627-8560-50a81553cd81,77,Male,9.38,Malignant,Positive,Radiation Therapy,Complete Response,Survived
+231,aa9cc378-17fc-4e5b-976b-334eb9ca70c5,40,Male,0.76,Benign,Negative,Chemotherapy,Partial Response,Survived
+232,b8763be4-3b50-4127-a28c-bec5a4006dd6,63,Male,4.47,Malignant,Positive,Radiation Therapy,Complete Response,Deceased
+233,3efcbad1-4d8c-4ee3-af89-8bb52c99f5d8,24,Male,4.97,Benign,Negative,Radiation Therapy,No Response,Survived
+234,e7b2cf4f-ef8e-44f5-9492-c40929e74514,44,Female,1.99,Malignant,Negative,Radiation Therapy,No Response,Deceased
+235,b2587e58-b13a-4029-b23d-3c68d392183c,67,Female,2.33,Malignant,Negative,Chemotherapy,Partial Response,Survived
+236,720e5238-75bd-421e-bbb1-11e65aba5cee,44,Female,2.71,Malignant,Positive,Chemotherapy,Complete Response,Survived
+237,f4350c60-97ea-47c7-86f9-66f340ed9f11,54,Male,1.59,Benign,Negative,Chemotherapy,No Response,Deceased
+238,527e5c0d-c919-4941-a500-945031315f89,43,Female,1.17,Benign,Positive,Chemotherapy,Complete Response,Survived
+239,08fe9812-470c-4dea-b477-1fe36dcc2cb7,34,Female,3.57,Benign,Negative,Chemotherapy,Complete Response,Survived
+240,8a0fd032-8e47-4725-9cde-e8adadb9140f,50,Female,2.69,Benign,Positive,Surgery,Partial Response,Deceased
+241,182f9f1b-52dc-4123-ae26-6b8bbf55119e,59,Female,8.22,Benign,Positive,Radiation Therapy,No Response,Deceased
+242,b88477ba-a83c-4e0a-9559-b2745805fce7,68,Male,9.24,Benign,Negative,Radiation Therapy,No Response,Deceased
+243,a79af023-2c56-46ee-a158-ce41f4c37315,80,Female,3.99,Benign,Positive,Radiation Therapy,Complete Response,Survived
+244,3d870505-f100-40d4-937e-d15c155c3857,49,Male,6.23,Malignant,Negative,Chemotherapy,Complete Response,Deceased
+245,5b39679b-e8c4-4706-99cb-5f7f12cb2756,69,Female,4.76,Benign,Positive,Surgery,Partial Response,Survived
+246,64903a43-1754-43a2-a060-679fa9bf998f,71,Female,3.09,Benign,Negative,Chemotherapy,No Response,Deceased
+247,a3b64638-92f1-46b0-8b92-605a8de6f77b,80,Female,4.85,Malignant,Positive,Surgery,Partial Response,Deceased
+248,9a0677d2-3e2d-4ffb-a1ec-f223fc4cf106,28,Male,5.44,Benign,Negative,Radiation Therapy,No Response,Deceased
+249,43b4b095-7e0b-4848-b1de-3e3bb0b51f8b,53,Female,3.2,Benign,Positive,Radiation Therapy,Partial Response,Deceased
