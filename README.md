@@ -40,7 +40,7 @@ for Windows Powershell:
 1. multimodal_diagnosis\\.env
 2. data_synthesis_and_personalized_treatment\\.env
 
-### Step 5: Run ypur app
+### Step 5: Run your app
 
 1. Navigate to the project directory.
 2. Run the following command
