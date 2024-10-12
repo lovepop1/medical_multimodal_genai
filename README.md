@@ -37,8 +37,8 @@ for Windows Powershell:
 
 ### Step 4: Enter your api keys in these .env files with no quotes
 
-1. multimodal_diagnosis\.env
-2. data_synthesis_and_personalized_treatment\.env
+1. multimodal_diagnosis\\.env
+2. data_synthesis_and_personalized_treatment\\.env
 
 ### Step 5: Run ypur app
 
