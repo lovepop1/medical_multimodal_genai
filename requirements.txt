@@ -31,8 +31,6 @@ sentence_transformers
 pinecone
 PyPDF2
 Pillow
-fitz
-frontend
 tools
 PyMuPDF
 table_evaluator
