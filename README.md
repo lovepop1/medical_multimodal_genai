@@ -43,7 +43,7 @@ for Windows Powershell:
 ### Step 5: Run ypur app
 
 1. Navigate to the project directory.
-2. Run the following command to create a virtual environment:
+2. Run the following command
 
 for Windows Powershell:
    1) streamlit run .\main.py
