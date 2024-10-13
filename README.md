@@ -38,6 +38,7 @@ for Windows Powershell:
 ### Step 4: Create .env files and enter your api keys in these .env files with no quotes
 
 Format:
+
 GROQ_API_KEY=YOUR_API_KEY
 gemini_key=YOUR_API_KEY
 
