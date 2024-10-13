@@ -35,7 +35,11 @@ for Windows Powershell:
 for Windows Powershell:
    1) pip install -r requirements.txt
 
-### Step 4: Enter your api keys in these .env files with no quotes
+### Step 4: Create .env files and enter your api keys in these .env files with no quotes
+
+Format:
+GROQ_API_KEY=YOUR_API_KEY
+gemini_key=YOUR_API_KEY
 
 1. multimodal_diagnosis\\.env
 2. data_synthesis_and_personalized_treatment\\.env
