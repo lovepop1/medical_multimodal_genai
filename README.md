@@ -48,9 +48,7 @@ for Windows Powershell:
 for Windows Powershell:
    1) streamlit run .\main.py
 
-### Image Synthesizer
 
-To access the image synthesis feature, run the code in the Image_synthesis.ipynb file. After execution, click on the link provided to access the image synthesizer.
 
 
 
