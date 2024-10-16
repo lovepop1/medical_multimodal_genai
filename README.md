@@ -44,6 +44,7 @@ gemini_key=YOUR_API_KEY
 
 1. multimodal_diagnosis\\.env
 2. data_synthesis_and_personalized_treatment\\.env
+3. personalized_treatment\\.env
 
 ### Step 5: Run your app
 
