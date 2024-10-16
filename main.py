@@ -10,14 +10,20 @@ from google.generativeai.types import HarmCategory, HarmBlockThreshold
 from datetime import datetime
 from groq import Groq
 import multimodal_diagnosis.diagnosis
-import data_synthesis_and_personalized_treatment.personalized_treatment
+import personalized_treatment.app
 import data_synthesis_and_personalized_treatment.general_ehr_generator
 import data_quality_check.testing_synthetic_data
+import drug_discovery.test
 import research_copilot.together
 import pubmed_recommender.recommender
 import webbrowser
+import requests
 
 # Apply a global style template with the requested customizations
+
+
+
+
 def template1_page_style():
     st.markdown("""
         <style>
@@ -28,7 +34,7 @@ def template1_page_style():
                 font-family: 'Kode Mono', sans-serif;
             }
             h1 {
-                font-size: 60px;
+                font-size: 55px;
                 font-family: 'Kode Mono', sans-serif;
                 color: white !important;
                 text-align: left;
@@ -136,11 +142,13 @@ def sidebar_navigation():
         st.session_state.current_page = 'Health Image'
     if st.sidebar.button("SYNTHETIC QUALITY CHECK \u00A0\u00A0\u00A0\u00A0\u00A0\u00A0✅"):
         st.session_state.current_page = 'Quality Check'
+    if st.sidebar.button("DRUG DISCOVERY \u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0💊"):
+        st.session_state.current_page = 'Drug Discovery'
 
 # Main Home page content
 def show_home():
     st.markdown("""
-        <div style="text-align: center; margin-top: 70px;">
+        <div style="text-align: center; margin-top: 10px;">
             <h1>
                 Gen Ai Medical Diagnosis, Treatment and Research Copilot
             </h1>
@@ -150,12 +158,13 @@ def show_home():
         </div>
     """, unsafe_allow_html=True)
 
+    
 # Other pages as placeholders
 def show_literature_recommender():
     pubmed_recommender.recommender.app()
 
 def show_personalized_treatment():
-    data_synthesis_and_personalized_treatment.personalized_treatment.app()
+    personalized_treatment.app.app()
 
 def show_record_synthesis():
     data_synthesis_and_personalized_treatment.general_ehr_generator.app()
@@ -168,6 +177,9 @@ def show_diagnosis():
     
 def show_data_quality():
     data_quality_check.testing_synthetic_data.app()
+
+def show_drug_discovery():
+    drug_discovery.test.app()
 
 
 def show_image_synthesis():
@@ -201,6 +213,8 @@ def main():
         show_image_synthesis()
     elif st.session_state.current_page == 'Quality Check':
         show_data_quality()
+    elif st.session_state.current_page == 'Drug Discovery':
+        show_drug_discovery()
 
 if __name__ == "__main__":  
     main()

@@ -31,11 +31,15 @@ sentence_transformers
 pinecone
 PyPDF2
 Pillow
-fitz
-frontend
 tools
 PyMuPDF
 table_evaluator
 matplotlib
 plotly
 seaborn
+tensorflow 
+keras 
+rdkit
+tf-keras
+firebase-admin
+pyrebase4
