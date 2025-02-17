@@ -2,6 +2,9 @@
 
 This application is designed to assist with medical research, treatment, and diagnosis, using state-of-the-art AI technologies integrated with Streamlit.
 
+## Demo
+https://youtu.be/hRIYgNtYp7U?si=GGh6QHDABmviDyyk
+
 ## Prerequisites
 
 - Python version 3.12

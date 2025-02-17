@@ -19,6 +19,9 @@ def app():
     GEMINI_API_KEY = os.getenv('gemini_key')
     GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
+    print('GEMINI_API_KEY: ', GEMINI_API_KEY)
+    print('GROQ API KEY: ', GROQ_API_KEY)
+
     if not GEMINI_API_KEY:
         raise ValueError("Google Gemini API key is missing. Please set the 'gemini_key' environment variable.")
 
@@ -84,7 +87,9 @@ def app():
         if ext.lower() not in allowed_extensions:
             return "Unsupported file type. Please upload a PNG, JPG, JPEG, or WEBP image."
 
+        print('gonna run upload_to_gemini')
         uploaded_file_info = upload_to_gemini(image_path, mime_type="image/png")
+        print('finished running the upload_to_gemini')
         if not uploaded_file_info:
             return "Failed to upload image for analysis."
 
@@ -120,7 +125,7 @@ def app():
         except Exception as e:
             logger.error(f"Error during image analysis: {e}")
             return f"An error occurred during analysis: {e}"
-
+    
     def query_groq_api(user_input):
         """Send the user input to the Groq API and get a response."""
         try:
@@ -166,6 +171,7 @@ def app():
             st.session_state.input_box = ""
 
     def display_chat():
+        global logger
         for message in st.session_state.messages:
             if message["role"] == USER_ROLE:
                 st.markdown(
@@ -188,7 +194,7 @@ def app():
                     unsafe_allow_html=True,
                 )
         st.markdown('<div id="end"></div>', unsafe_allow_html=True)
-
+    
     # Streamlit Application
     # st.markdown("<h1>MediMate AI Assistant 🩺</h1>", unsafe_allow_html=True)
 
@@ -240,6 +246,11 @@ def app():
 
                     # Analyze the image
                     analysis_result = analyze_image(temp_file_path)
+
+                    print('the analysis result we got is as follows:')
+                    print(type(analysis_result))
+                    print(analysis_result)
+                    print('finished printing the naalysis report')
 
                     # Remove the temporary file
                     os.remove(temp_file_path)
